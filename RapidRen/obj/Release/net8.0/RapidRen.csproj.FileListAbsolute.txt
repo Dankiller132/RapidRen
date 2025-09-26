@@ -1,0 +1,14 @@
+F:\VisualStudio Source\repos\RapidRen\RapidRen\bin\Release\net8.0\RapidRen.exe
+F:\VisualStudio Source\repos\RapidRen\RapidRen\bin\Release\net8.0\RapidRen.deps.json
+F:\VisualStudio Source\repos\RapidRen\RapidRen\bin\Release\net8.0\RapidRen.runtimeconfig.json
+F:\VisualStudio Source\repos\RapidRen\RapidRen\bin\Release\net8.0\RapidRen.dll
+F:\VisualStudio Source\repos\RapidRen\RapidRen\bin\Release\net8.0\RapidRen.pdb
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.AssemblyInfoInputs.cache
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.AssemblyInfo.cs
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.csproj.CoreCompileInputs.cache
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.dll
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\refint\RapidRen.dll
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.pdb
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\RapidRen.genruntimeconfig.cache
+F:\VisualStudio Source\repos\RapidRen\RapidRen\obj\Release\net8.0\ref\RapidRen.dll
